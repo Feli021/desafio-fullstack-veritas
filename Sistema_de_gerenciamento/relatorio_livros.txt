@@ -1,0 +1,10 @@
+=== RELATÓRIO DE LIVROS ===
+
+Código     | Título                         | Autor                     | Preço (R$)
+-------------------------------------------------------------------------------------
+1          | A Fada Madrinha                | Giovanna Albianque        |      35.00
+4          | A flor do jardim               | Juliano Braga             |      35.00
+5          | ET de Wallstreet               | Juliano Braga             |      55.00
+6          | Harry Potter                   | J.K.Rolling               |      70.00
+
+Última atualização: 06/11/2025 14:23:56
