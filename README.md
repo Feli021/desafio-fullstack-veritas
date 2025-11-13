@@ -3,7 +3,7 @@ Primeiramente, gostaria de agradecer por poder chegar a etapa do desafio. Infeli
 
 ### README do Código:
 
-# Projeto RAD\n\Sistema de cadastro de livros de uma biblioteca pressoal.
+# Projeto RAD\Sistema de cadastro de livros de uma biblioteca pressoal.
 
 ## 🧰 Tecnologias utilizadas
 
